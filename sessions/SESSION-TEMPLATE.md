@@ -1,65 +1,51 @@
-# Session Notes - [DATE]
-
-## Session Overview
-- **Date**: [YYYY-MM-DD]
-- **Duration**: [Approximate time spent]
-- **Main Topics**: [Brief list]
-
 ---
+# Session Notes 模板（请保存在 /sessions/YYYY-MM-DD/session-notes.md）
 
-## Questions Asked
+日期: YYYY-MM-DD
+时长: X 小时
+形式: 在线 / 线下 / 混合
+主讲主题（本次目标）:
+- 主要覆盖的 CFP 领域与子主题（例如：F. 退休 — 社会保障领取策略）
 
-### Question 1: [Topic]
-**Student's Question**: [Exact question or topic requested]
+学生初始理解（记录学生原话）:
+- 学生对该主题的已有理解（尽量 verbatim）
 
-**Initial Understanding**: [What student knew before explanation]
+教学过程（按引导式结构记录）:
+1. 初始探索（问学生 “你之前了解多少？” / “你遇到过…吗？” 并记录回答）
+2. 约 200 字解释（概念要点、公式与实际案例）
+3. 示例或演算（把步骤写清楚）
+4. 理解检测问题（1–2 个）及学生回答
+5. 教学适配（根据学生回答调整的额外讲解或类比）
 
-**Explanation Given**: [Summary of concept explained]
+练习题/案例（本次做过的题目，逐题记录步骤与答案来源）
+- 题目 1（题干）
+  - 学生答案（记录）
+  - 正确答案与解题思路（如有在线核实的来源，请附 URL）
+- 题目 2（...）
 
-**Comprehension Check**:
-- Question asked: [Verification question posed]
-- Student's response: [How they answered]
-- Understanding level: [Strong/Partial/Needs more work]
+知识缺口（本次发现的新缺口，标注严重性 High/Medium/Low）
+- 如：社保计算公式细节（High）
 
-**Follow-up**: [Additional clarifications or next steps]
+掌握情况（本次判断）
+- 已掌握: [列项]（日期、信心水平 High/Medium/Low）
+- 部分掌握: [列项]
+- 需加强: [列项]
 
+练习与家庭作业（下次会话前要完成）
+- 题目编号 / 练习要求 / 截止日期
+
+关键资源与参考（所有查证的外部来源，必须包含权威来源 URL）
+- 例如: Social Security Administration: https://www.ssa.gov/...
+- 例如: IRS / CFP Board / 官方发布链接（若有变化必须标注检索日期）
+
+会话反思（面向教师）
+- 哪些教学方法有效？
+- 学生表现与注意事项
+- 下次改进方向
+
+会话文件关联（必须在 progress tracker 中关联）
+- 本次会话已更新到 /progress/cfp-study-tracker.md 的哪些条目（写明节、行）
+- 本次会话文件路径: /sessions/YYYY-MM-DD/session-notes.md
+
+最后更新时间: YYYY-MM-DD HH:MM (UTC+你的时区)
 ---
-
-### Question 2: [Topic]
-[Same structure as above]
-
----
-
-## Knowledge Gaps Identified
-
-| Topic | Severity | Notes |
-|-------|----------|-------|
-| [Topic name] | High/Med/Low | [What was challenging] |
-
----
-
-## Topics Mastered Today
-
-| Topic | Confidence | Notes |
-|-------|------------|-------|
-| [Topic name] | High/Med | [What they understood well] |
-
----
-
-## Key Concepts Covered
-
-- **[Concept 1]**: [Brief note]
-- **[Concept 2]**: [Brief note]
-
----
-
-## Action Items for Next Session
-
-- [ ] Review: [Topics that need follow-up]
-- [ ] Practice: [Areas needing more examples]
-- [ ] Explore: [New related topics to cover]
-
----
-
-## Notes
-[Any additional observations about learning style, common mistakes, areas of strength, etc.]
